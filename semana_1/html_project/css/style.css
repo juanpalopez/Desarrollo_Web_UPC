@@ -1,0 +1,12 @@
+.img-circle{
+	width: 140px;
+	height: 140px;
+}
+
+.marketing{
+	margin-bottom: 20px;
+}
+
+.marketing .col-lg-4{
+	text-align: center;
+}
